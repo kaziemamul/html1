@@ -27,3 +27,20 @@ http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
 https://kaziemamulemu.shortcm.li/kazitv/nantv.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RP49fhtkDqs/YRFvdU49V4I/AAAAAAAABR4/pRaDyq9ba8MBmPFevxwt3fQs5HHfVTiqQCLcBGAsYHQ/s155/ei_1628532510817-removebg-preview.png" group-title="Salman", Nexus TV
 http://live.flixhub.net/hls/nexus.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hXLm2IdVu3w/YRVQJjhLUMI/AAAAAAAABV8/r1aC4PE7eecgcayJHcdZRn97HcQkYJ7jwCLcBGAsYHQ/s0/s%2B%25281%2529.png" group-title="Salman", Sristy TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dmm6jjpex/image/upload/v1642627580/qcskvwhffvo1uswpzeyu.jpg" group-title="Salman", ZooM
+http://live.flixhub.net/hls/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OA6na_DXXrM/YRFakX1ZrWI/AAAAAAAABQ0/kIeKWlY77ZI616jzPQhktvrvyootSmTrQCLcBGAsYHQ/s0/h.png" group-title="Salman", Channel TT
+https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qk8wWQU1VWU/YP1Sr0l8utI/AAAAAAAABC8/9fMPw3r7sFEl9ljo6Oj8RJ39R1OS1mCJACLcBGAsYHQ/s0/kk%2B%25281%2529.png" group-title="Salman", Nan TV
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qed4gAwjQbg/YOwjki37o7I/AAAAAAAAAw4/ia4GJiLzkTEQi0WnbvufqHTT9aoc2cmqQCLcBGAsYHQ/s0/1%2B%25281%2529.png" group-title="Salman", Nan TV
+http://live.flixhub.net/hls/sonymax.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/kazitvsp1/image/upload/v1629711972/yk6t1jyj5mdficx8z1sd.png" group-title="Salman", Nan TV
+https://kaziemamulemu.shortcm.li/kazitv/nantv.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/kazitvsp1/image/upload/v1629711972/yk6t1jyj5mdficx8z1sd.png" group-title="Salman", Nan TV
+https://kaziemamulemu.shortcm.li/kazitv/nantv.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/kazitvsp1/image/upload/v1629711972/yk6t1jyj5mdficx8z1sd.png" group-title="Salman", Nan TV
+https://kaziemamulemu.shortcm.li/kazitv/nantv.m3u8
