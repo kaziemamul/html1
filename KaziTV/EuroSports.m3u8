@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_3",DEFAULT=YES,URI="https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/ce97b97e-f92d-4af2-b6b0-0c72b0a67105/0.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2432399,RESOLUTION=540p,CODECS="avc1.64001f,mp4a.40.2",AUDIO="group_A1"
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/ce97b97e-f92d-4af2-b6b0-0c72b0a67105/1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1332399,RESOLUTION=720p,CODECS="avc1.64001e,mp4a.40.2",AUDIO="group_A1"
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/ce97b97e-f92d-4af2-b6b0-0c72b0a67105/2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=832399,RESOLUTION=1080p,CODECS="avc1.640015,mp4a.40.2",AUDIO="group_A1"
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/ce97b97e-f92d-4af2-b6b0-0c72b0a67105/3.m3u8
